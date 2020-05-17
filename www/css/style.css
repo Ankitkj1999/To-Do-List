@@ -10,7 +10,7 @@ body{
 /* ------------ container ------------ */
 .container{
     padding: 4%;
-    width:90 vw ;
+    width:87 vw ;
     margin:0%;
     top: 50%;
     left:50%;
@@ -106,7 +106,7 @@ body{
     font-size: 20px;
     left:50px;
     color: white;
-    top:15%;
+    top:19%;
     background-color:transparent;
     max-width:285px;
 }
@@ -129,7 +129,7 @@ body{
 .add-to-do{
     position: relative;
     width: 85 vw;
-    height:7.5 vh;
+    height:7.3 vh;
     background-color: rgb(0, 0, 0);
     padding: 10px;
     border-top: 1px solid rgba(255, 255, 255, 0.2);
