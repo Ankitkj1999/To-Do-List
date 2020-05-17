@@ -9,9 +9,9 @@ body{
 
 /* ------------ container ------------ */
 .container{
-    padding: 3%;
+    padding: 4%;
     width:90 vw ;
-    margin:0 auto;
+    margin:1.5%;
     top: 50%;
     left:50%;
     overflow: hidden;
@@ -74,9 +74,8 @@ body{
 .item{
     width:90 vw;
     height: 45px;
-    min-height: 45px;
     position: relative;
-    border-bottom: 1px solid rgba(255, 254, 254, 0.1);
+    border-bottom: 1px solid rgba(255, 254, 254, 0.2);
     list-style: none;
     padding: 0;
     margin: 0;
@@ -107,7 +106,7 @@ body{
     font-size: 20px;
     left:50px;
     color: white;
-    top:5px;
+    top:15%;
     background-color:transparent;
     max-width:285px;
 }
@@ -130,11 +129,11 @@ body{
 .add-to-do{
     position: relative;
     width: 85 vw;
-    height:40px;
+    height:7.5 vh;
     background-color: rgb(0, 0, 0);
     padding: 10px;
     border-top: 1px solid rgba(255, 255, 255, 0.2);
-    border-radius: 0 0 15px 15px;
+    border-radius: 15px ;
     color: white;
 }
 .add-to-do i{
@@ -146,7 +145,7 @@ body{
 .add-to-do input{
     position: absolute;
     left: 50px;
-    height: 35px;
+    height: 7 vh;
     width: 78 vw;
     background-color: black;
     border: none;
