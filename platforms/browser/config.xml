@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.pgonegap.todoList" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>To-Do List</name>
+   <description>
+       A Simple To-Do list with dark theme, suitable for devices with OLED and AMOLED display.
+    </description>
+    <author email="ankit.k.j1999@gmail.com" href="http://ankit-kumar-cv.web.app">
+        Ankit Kumar
+    </author>
+    <content src="index.html" />
+    
+    <access origin="*" />
+     <platform name="android">
+  <icon src="icon.png"  />
+</platform>
+<platform name="ios">
+  <icon src="icon.png"  />
+</platform>
+<platform name="windows">
+  <icon src="icon.png"  />
+</platform>
+<author>Ankit Kumar</author>
+<preference name="ankit-kumar" value="PhonegapBuild.PGBDeveloper" />
+
+</widget>
